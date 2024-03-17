@@ -1,0 +1,14 @@
+C:\Users\radim\source\repos\bogo_sort\bin\Debug\net6.0\bogo_sort.exe
+C:\Users\radim\source\repos\bogo_sort\bin\Debug\net6.0\bogo_sort.deps.json
+C:\Users\radim\source\repos\bogo_sort\bin\Debug\net6.0\bogo_sort.runtimeconfig.json
+C:\Users\radim\source\repos\bogo_sort\bin\Debug\net6.0\bogo_sort.dll
+C:\Users\radim\source\repos\bogo_sort\bin\Debug\net6.0\bogo_sort.pdb
+C:\Users\radim\source\repos\bogo_sort\obj\Debug\net6.0\bogo_sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radim\source\repos\bogo_sort\obj\Debug\net6.0\bogo_sort.AssemblyInfoInputs.cache
+C:\Users\radim\source\repos\bogo_sort\obj\Debug\net6.0\bogo_sort.AssemblyInfo.cs
+C:\Users\radim\source\repos\bogo_sort\obj\Debug\net6.0\bogo_sort.csproj.CoreCompileInputs.cache
+C:\Users\radim\source\repos\bogo_sort\obj\Debug\net6.0\bogo_sort.dll
+C:\Users\radim\source\repos\bogo_sort\obj\Debug\net6.0\refint\bogo_sort.dll
+C:\Users\radim\source\repos\bogo_sort\obj\Debug\net6.0\bogo_sort.pdb
+C:\Users\radim\source\repos\bogo_sort\obj\Debug\net6.0\bogo_sort.genruntimeconfig.cache
+C:\Users\radim\source\repos\bogo_sort\obj\Debug\net6.0\ref\bogo_sort.dll
